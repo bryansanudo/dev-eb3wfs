@@ -5,7 +5,7 @@ import Services from "@/components/home/Services";
 const Home = () => {
   return (
     <>
-      <h1>EB-3 WORKFORCE SOLUTIONS</h1>
+      <h1 className="text-blue-500">EB-3 WORKFORCE SOLUTIONS</h1>
       <HomeNavbar />
 
       <Routes>
